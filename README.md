@@ -1,6 +1,10 @@
 # img2text
 We will be taking Images from the User and Generate Descriptions of those Images.
 
+![Project](https://github.com/user-attachments/assets/f024c0e0-b3af-48c3-b0bb-b734e4077896)
+
+
+
 # Image to Text Annotation using Google Gemini
 
 This project is a web-based Image to Text Annotation tool built using **Streamlit** and **Google Gemini**. The application allows users to upload an image, provide an optional input prompt, and get text annotations based on the content of the image using the Gemini AI model.
